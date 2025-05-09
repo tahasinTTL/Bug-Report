@@ -1,0 +1,13 @@
+Path,Bug / Concern Description,Status,Priority,Tester Name,Developer Name,Screenshot,Comment
+"Home>পরামর্শ>
+দিনে সাতটি কাজ কার্যকরভাবে করার উপায়
+
+",Whenever I want to try sign in with google I face not permitted issue. Want to sign in with google by one click .   ,New,,Tahasin,Lamia,https://drive.google.com/file/d/1hy70N7hbrDmCsnseqdCTb23EOu5y2I96/view?usp=sharing,Test done by Tahasin (4/11/24)
+Home>পরামর্শ> দিনে সাতটি কাজ কার্যকরভাবে করার উপায়,"Post a comment is not working. So I cant post a Comment through this.Whenever I click on post a comment, I want to comment in the comment box.",New,,Tabassum,Afsana,https://drive.google.com/file/d/1cArawQQby2y9s-vuu3Nop59cPn55ZyWb/view?usp=drive_link,Test done by Tabassum (5/11/24)
+Contact > GET IN TOUCH,Mobile number accepts more than 11 digits. Mobile number must accept only 11 digits.,New,,Lamia,Afridi,https://drive.google.com/file/d/1cne0IFrIwFQIZ6GPQLSO6FBahAJYuaes/view?usp=drive_link,Test done by Lamia (5/11/24)
+Home>পরামর্শ,4 number pagination is not working in পরামর্শ section.,New,,Akhi,Tahasin,https://drive.google.com/file/d/1NlGiqUGOX0NfZTfzIXaaqxLJKPKHDtIp/view?usp=drive_link,Test done by Akhi (5/11/24)
+Home>Footer>Privacy policy,In footer part privacy policy (Opt-Out page) is a Link attributes bug.(Opt-out page) must be workable.,New,,Tahasin,Zubayer,https://drive.google.com/file/d/100FyAUYRlugFV-VEs9GXlXRM2EQsU_Lg/view?usp=drive_link,Test done by Tahasin (5/11/24)
+Home>Footer>Bangla Puzzle Limited,Take any character in phone number field.Must be take numerical character.,Not an issue,,Tabassum,Afridi,https://drive.google.com/file/d/1mf27bMoNm6XiqUkFdEfpX0voGrn_gvPP/view?usp=drive_link,Test done by Tabassum(5/11/24)
+Home>Footer>Bangla Puzzle Limited>service>AR/VR,View more redirect no page. By the click it redirect a a new page,New,,Lamia,Zubayer,https://drive.google.com/file/d/1XS9QmsvHrGUtcs8s69o9lgmsbphG-UTQ/view?usp=drive_link,Test done by Lamia (5/11/24)
+Bangla Puzzel Limited>Breast Cancer Solution,More view redirects an error page.Redirect a correct page,New,,Tahasin,Afridi,https://drive.google.com/file/d/1eaVAoEmSR4ieXwUL1BT1xYFJsd0j-OeE/view?usp=drive_link,Test done by Tahasin (5/11/24)
+Bangla Puzzel Limited>Home,"Those domain (products, Services, Industries) don’t have “https” certification.Need the “https” certification.",New,,Lamia,Afridi,https://drive.google.com/file/d/17UqAlZAt5lFhQk12wgS60fw_hrnlUGRa/view?usp=drive_link,Test done by Lamia (5/11/24)
